@@ -14,6 +14,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+STATIC_PATHS = ["images", "pdfs"]
 
 # # Blogroll
 # LINKS = (('Pelican', 'https://getpelican.com/'),
