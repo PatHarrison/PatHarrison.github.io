@@ -14,7 +14,9 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-STATIC_PATHS = ["images", "pdfs"]
+STATIC_PATHS = ["images", "pdfs", "notebooks"]
+
+MARKUP = ('md')
 
 THEME = "themes/cebong"
 

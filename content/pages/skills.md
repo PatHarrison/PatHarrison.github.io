@@ -4,7 +4,7 @@ Date: 2023-10-11
 Modified: 2023-07-28
 
 
-# Technical Skills
+## Technical Skills
 
 | Data Processing   | Software                    | Programming | Development Tools  |
 |-------------------|-----------------------------|-------------|--------------------|
@@ -14,7 +14,7 @@ Modified: 2023-07-28
 | Numerical Methods | LaTeX Report Typestting     |             | Linux Server       |
 
 
-# Self Management Skills
+## Self Management Skills
 - Time Management
     - Planning: Creating scheduals and Gantt Charts to prioritze and schedual tasks.
     - Goal Setting: Using smart goals to stay on track.
