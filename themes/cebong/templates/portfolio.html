@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>Portfolio</h1>
+<div class="portfolio-items">
+    {% for article in articles %}
+    <div class="portfolio-item">
+        <h2><a href="{{ article.url }}">{{ article.title }}</a></h2>
+        <p>{{ article.summary }}</p>
+    </div>
+    {% endfor %}
+</div>
+
+<nav>
+    <ul class="pagination">
+        {% if articles.previous_page %}
+        <li><a href="{{ SITEURL }}/{{ articles.previous_page }}">&laquo; Previous</a></li>
+        {% endif %}
+        {% for page_number in articles.page_numbers %}
+        <li class="{% if page_number == articles.current_page %}active{% endif %}">
+            <a href="{{ SITEURL }}/page/{{ page_number }}">{{ page_number }}</a>
+        </li>
+        {% endfor %}
+        {% if articles.next_page %}
+        <li><a href="{{ SITEURL }}/{{ articles.next_page }}">Next &raquo;</a></li>
+        {% endif %}
+    </ul>
+</nav>
+{% endblock %}
