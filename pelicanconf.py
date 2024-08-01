@@ -16,14 +16,6 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 STATIC_PATHS = ["images", "pdfs"]
 
-# URL Settings
-ARTICLE_URL = "portfolio/{slug}"
-ARTICLE_SAVE_AS = "portfolio/{slug}/index.html"
-
-# Plugins
-PLUGIN_PATHS = ["plugins"]
-PLUGINS = ["pelican.plugins.pagination"]
-
 THEME = "C:/Users/patrick/BGIS/COMM415/Assignment/pelican-themes/cebong"
 
 # # Blogroll
