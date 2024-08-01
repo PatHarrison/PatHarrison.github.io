@@ -14,7 +14,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
-STATIC_PATHS = ["images", "pdfs", "notebooks"]
+STATIC_PATHS = ["images", "pdfs"]
 
 MARKUP = ('md')
 
