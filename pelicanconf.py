@@ -16,7 +16,7 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 STATIC_PATHS = ["images", "pdfs"]
 
-THEME = "C:/Users/patrick/BGIS/COMM415/Assignment/pelican-themes/cebong"
+THEME = "themes/cebong"
 
 # # Blogroll
 # LINKS = (("Pelican", "https://getpelican.com/"),
