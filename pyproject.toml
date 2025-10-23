@@ -1,0 +1,20 @@
+[project]
+name = "patharrison-gitub-io"
+version = "0.1.0"
+description = "Personal GIS portfolio"
+authors = [
+    {name = "PatHarrison",email = "patrickgharrison@outlook.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13,<4.0"
+dependencies = [
+    "pelican[markdown] (>=4.11.0,<5.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "patharrison"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

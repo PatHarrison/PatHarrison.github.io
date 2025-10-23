@@ -1,0 +1,4 @@
+[submodule "themes/pelican-mistwood"]
+	path = themes/pelican-mistwood
+	url = https://github.com/PatHarrison/pelican-mistwood.git
+	branch = master
