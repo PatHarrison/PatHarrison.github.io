@@ -4,6 +4,8 @@ SITEURL = ""
 
 PATH = "content"
 
+THEME = "themes/pelican-mistwood"
+
 TIMEZONE = 'America/Edmonton'
 
 DEFAULT_LANG = 'en'
