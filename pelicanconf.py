@@ -1,5 +1,6 @@
 AUTHOR = 'Patrick Harrison'
 SITENAME = 'Patrick Harrison | Portfolio'
+TAGLINE = "GIS | Software Automation | Astrophysics"
 SITEURL = ""
 
 PATH = "content"
