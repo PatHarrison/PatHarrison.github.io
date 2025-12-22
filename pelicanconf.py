@@ -7,7 +7,7 @@ SITEURL = ""
 
 PATH = "content"
 
-STATIC_PATHS = ['images', 'pdf', 'extra']
+STATIC_PATHS = ['images', 'pdf']
 
 THEME = "themes/pelican-mistwood"
 
@@ -27,3 +27,9 @@ SOCIAL = (
 )
 
 DEFAULT_PAGINATION = 5
+
+# Force correct MIME handling
+# STATIC_CHECK_IF_MODIFIED = True
+# EXTRA_PATH_METADATA = {
+#     'maps/waiparous_landcover/index.html': {'path': 'maps/waiparous_landcover/index.html'},
+# }
