@@ -4,7 +4,7 @@ Template: resume
 
 
 ### GIS Technologist
-**Canada West Land Services Ltd.** | November 2025 - Present
+**[Canada West Land Services Ltd.](https://canadawestland.com/)** | November 2025 - Present
 
 - Automated GIS workflows from proprietary database systems to ArcGIS Online Using Feature Manipulation Engine.
 - Created automated workflows using Feature Manipulation Engine to create custom reporting documents from Spatial Data.
@@ -12,7 +12,7 @@ Template: resume
 
 
 ### Streetlight Asset Management Summer Student
-**City of Calgary** | May 2025 - August 2025
+**[City of Calgary](https://www.calgary.ca/home.html)** | May 2025 - August 2025
 
 - Updated versioned enterprise geodatabase to ensure accuracy and integrity of asset data, supporting reliable infrastructure records across the business unit.
 - Built custom Python toolboxes for ArcGIS Pro & ArcMap to automate spatial data updates, reducing processing time by 50% and improving data quality.
@@ -23,14 +23,14 @@ Template: resume
 
 
 ### Bachelor of Applied Technology in Geographic Information Systems
-**Southern Alberta Institute of Technology** | May 2024 - December 2025
+**[Southern Alberta Institute of Technology](https://www.sait.ca/programs-and-courses/degrees/bachelor-of-applied-technology-geographic-information-systems)** | May 2024 - December 2025
 
 - Vice President of GIS Student Club
 - Key Coursework: Data Modeling, Data Capture, Enterprise and WebGIS, GIS Programming, Cartography
 
 
 ### Software Automation Tester
-**Infosys Ltd.** | 2020 - 2022
+**[Infosys Ltd.](https://www.infosys.com/)** | 2020 - 2022
 
 - Effectively collaborated to plan, develop, and execute automated testing strategies and test cases which reduced manual testing times by 1650 hours per year for a data pipeline with a group of 7 engineers.
 - Overhauled an existing testing suite to employ a data-driven approach. This increased the efficiency of the testing suite by 25% and streamlined testing, thereby increasing delivery speed.
@@ -38,6 +38,6 @@ Template: resume
 
 
 ### Bachelor of Science in Astrophysics
-**University of Calgary** | September 2016 - May 2021
+**[University of Calgary](https://www.ucalgary.ca/future-students/undergraduate/explore-programs/astrophysics)** | September 2016 - May 2021
 
 - Key Coursework: Observational Astrophysics, Mathematical Statistics, Computational Physics, Data Structures and Algorithms
