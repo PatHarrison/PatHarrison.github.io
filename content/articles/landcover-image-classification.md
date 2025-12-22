@@ -2,7 +2,8 @@ Title: Landcover Image Classification
 Date: 2024-11-24
 Category: project
 Slug: landcover-image-classification
-Thumbnail: {static}/pdfs/LandCoverLayout.pdf
+Featured: True
+Thumbnail: pdf/GEOS451_Assign03/Landcover.png
 
 
 Landcover assessment using a support vector machine (SVM) near the Waiparous Alberta.
@@ -11,6 +12,7 @@ The task was to find satellite imagery of the study area (I used Planet Labs ima
 and compare supervised machine learning algorithms to classify landcover. 
 
 [Click Here to Read more]({static}/pdf/GEOS451_Assign03/report.pdf)
+
 
 <iframe
     src="{static}/pdf/GEOS451_Assign03/LandcoverLayout.pdf#toolbar=0#navpanes=0"

@@ -2,7 +2,7 @@ Title: Cartography Course Examples
 Date: 2024-09-01
 Category: project
 Slug: cartography
-Thumbnail: {static}/pdf/HaidiGwaii.png
+Featured: True
 
 Some map examples from my Cartography course at SAIT.
 
