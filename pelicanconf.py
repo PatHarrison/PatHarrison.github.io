@@ -7,6 +7,8 @@ SITEURL = ""
 
 PATH = "content"
 
+STATIC_PATHS = ['images', 'pdf', 'extra']
+
 THEME = "themes/pelican-mistwood"
 
 TIMEZONE = 'America/Edmonton'
