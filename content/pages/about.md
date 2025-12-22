@@ -4,6 +4,10 @@ Slug: about
 Template: page
 
 
+<div style="text-align:center;">
+  <img src="{static}/images/profile.jpg" alt="profile-picture" style="max-width:50%; height:auto;">
+</div>
+
 ## Who Am I?
 I am a GIS Technologist with two years of experience in software automation testing and QA/QC.
 I specialize in automating GIS workflows and designing spatial databases, combining technical skills with a strong interest in land management and data analytics.
