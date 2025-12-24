@@ -8,5 +8,8 @@ This project was my case study report for the practicum course at SAIT.
 This project lead me deep into the world of server arcitecture, Docker containers, and disk partitioning linux systems.
 As well, This project gave me good experience in networking and security.
 
-[Read More Here]({static}/pdf/EnterpriseServer/GEOS540_ASSIGN02_PatrickHarrison.pdf)
+<iframe
+    src="{static}/pdf/EnterpriseServer/GEOS540_ASSIGN02_PatrickHarrison.pdf"
+    style="display:block; margin:20px auto; width:90%; max-width:1200px; height:1200px; border:none;">
+</iframe>
 

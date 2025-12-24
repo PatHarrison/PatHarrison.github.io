@@ -3,6 +3,7 @@ Date: 2024-09-01
 Category: project
 Slug: cartography
 Featured: True
+Thumbnail: pdf/cartography/PhiladelphiaBug.jpg
 
 Some map examples from my Cartography course at SAIT.
 
